@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLayer", "SharedLayer\SharedLayer.csproj", "{F98FBBC3-56ED-4A38-AFE1-8898A2A96853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{AD3FF113-2DBF-4084-AFE9-3BD1D324D90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLayer", "ClientLayer\ClientLayer.csproj", "{43B62D99-023C-489C-8CF4-2786813601D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98FBBC3-56ED-4A38-AFE1-8898A2A96853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98FBBC3-56ED-4A38-AFE1-8898A2A96853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98FBBC3-56ED-4A38-AFE1-8898A2A96853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98FBBC3-56ED-4A38-AFE1-8898A2A96853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3FF113-2DBF-4084-AFE9-3BD1D324D90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3FF113-2DBF-4084-AFE9-3BD1D324D90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3FF113-2DBF-4084-AFE9-3BD1D324D90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3FF113-2DBF-4084-AFE9-3BD1D324D90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B62D99-023C-489C-8CF4-2786813601D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B62D99-023C-489C-8CF4-2786813601D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B62D99-023C-489C-8CF4-2786813601D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B62D99-023C-489C-8CF4-2786813601D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
